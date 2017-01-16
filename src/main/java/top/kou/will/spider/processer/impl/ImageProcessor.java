@@ -1,11 +1,11 @@
-package top.kou.spider.processer.impl;
+package top.kou.will.spider.processer.impl;
 
 import org.apache.commons.lang.StringUtils;
 import org.apache.log4j.Logger;
 import org.jsoup.nodes.Document;
-import top.kou.core.helper.ConfigHelper;
-import top.kou.spider.Spider;
-import top.kou.spider.processer.Processor;
+import top.kou.will.core.helper.ConfigHelper;
+import top.kou.will.spider.Spider;
+import top.kou.will.spider.processer.Processor;
 
 import java.io.*;
 import java.math.BigInteger;

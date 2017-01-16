@@ -1,14 +1,14 @@
-package top.kou.spider;
+package top.kou.will.spider;
 
 import org.apache.commons.lang.StringUtils;
 import org.apache.log4j.Logger;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
-import top.kou.core.helper.ConfigHelper;
-import top.kou.spider.container.Container;
-import top.kou.spider.container.impl.DatabaseContainer;
-import top.kou.spider.processer.Processor;
-import top.kou.spider.processer.impl.ImageProcessor;
+import top.kou.will.core.helper.ConfigHelper;
+import top.kou.will.spider.container.Container;
+import top.kou.will.spider.container.impl.DatabaseContainer;
+import top.kou.will.spider.processer.Processor;
+import top.kou.will.spider.processer.impl.ImageProcessor;
 
 import java.util.HashSet;
 import java.util.Set;

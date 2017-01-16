@@ -1,6 +1,6 @@
-package top.kou.spider.container.impl.mapper;
+package top.kou.will.spider.container.impl.mapper;
 
-import top.kou.spider.model.DocumentUrl;
+import top.kou.will.spider.model.DocumentUrl;
 
 /**
  * Created by Hack on 2016/12/23.

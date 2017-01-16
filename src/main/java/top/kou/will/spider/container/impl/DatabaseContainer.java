@@ -1,14 +1,14 @@
-package top.kou.spider.container.impl;
+package top.kou.will.spider.container.impl;
 
 import org.apache.commons.lang.StringUtils;
 import org.apache.ibatis.session.SqlSession;
 import org.apache.log4j.Logger;
-import top.kou.spider.container.Container;
-import top.kou.spider.container.impl.mapper.DocumentUrlMapper;
-import top.kou.spider.container.impl.mapper.FileUrlMapper;
-import top.kou.spider.helper.CacheHelper;
-import top.kou.spider.model.DocumentUrl;
-import top.kou.spider.model.FileUrl;
+import top.kou.will.spider.container.Container;
+import top.kou.will.spider.container.impl.mapper.DocumentUrlMapper;
+import top.kou.will.spider.container.impl.mapper.FileUrlMapper;
+import top.kou.will.spider.helper.CacheHelper;
+import top.kou.will.spider.model.DocumentUrl;
+import top.kou.will.spider.model.FileUrl;
 
 /**
  * Created by Hack on 2016/12/24.

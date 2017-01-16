@@ -1,4 +1,4 @@
-package top.kou.spider.model;
+package top.kou.will.spider.model;
 
 import java.util.Date;
 

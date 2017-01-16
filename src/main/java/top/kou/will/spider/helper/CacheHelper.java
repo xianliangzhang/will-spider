@@ -1,10 +1,10 @@
-package top.kou.spider.helper;
+package top.kou.will.spider.helper;
 
 import org.apache.ibatis.session.SqlSessionFactory;
 import org.apache.ibatis.session.SqlSessionFactoryBuilder;
 import org.apache.log4j.Logger;
-import top.kou.core.helper.AbstractCacheHelper;
-import top.kou.core.helper.ConfigHelper;
+import top.kou.will.core.helper.AbstractCacheHelper;
+import top.kou.will.core.helper.ConfigHelper;
 
 import java.io.InputStream;
 import java.util.Properties;
